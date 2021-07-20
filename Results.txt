@@ -1,0 +1,1257 @@
+Enter the factors for the number 2(only 2 are left):   
+YAYY ALL FACTORS FOR 2 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 3(only 2 are left):   
+Enter the factors for the number 3(only 2 are left):   
+YAYY ALL FACTORS FOR 3 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 4(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 4
+ U CAN DO IT!!!!
+Enter the factors for the number 4(only 1 are left):   
+YAYY ALL FACTORS FOR 4 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 5(only 2 are left):   
+YAYY ALL FACTORS FOR 5 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 6(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 6
+ U CAN DO IT!!!!
+Enter the factors for the number 6(only 2 are left):   
+YAYY ALL FACTORS FOR 6 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 7(only 2 are left):   
+YAYY ALL FACTORS FOR 7 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 8(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 8
+ U CAN DO IT!!!!
+Enter the factors for the number 8(only 2 are left):   
+YAYY ALL FACTORS FOR 8 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 9(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 9
+ U CAN DO IT!!!!
+Enter the factors for the number 9(only 1 are left):   
+YAYY ALL FACTORS FOR 9 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 10(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 10
+ U CAN DO IT!!!!
+Enter the factors for the number 10(only 2 are left):   
+YAYY ALL FACTORS FOR 10 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 11(only 2 are left):   
+YAYY ALL FACTORS FOR 11 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 12(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 12
+ U CAN DO IT!!!!
+Enter the factors for the number 12(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 12
+ U CAN DO IT!!!!
+Enter the factors for the number 12(only 2 are left):   
+YAYY ALL FACTORS FOR 12 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 13(only 2 are left):   
+YAYY ALL FACTORS FOR 13 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 14(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 14
+ U CAN DO IT!!!!
+Enter the factors for the number 14(only 2 are left):   
+YAYY ALL FACTORS FOR 14 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 15(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 15
+ U CAN DO IT!!!!
+Enter the factors for the number 15(only 2 are left):   
+YAYY ALL FACTORS FOR 15 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 16(only 5 are left):   
+YAY !! Good Super Only 3 number of factors are remaining for the number 16
+ U CAN DO IT!!!!
+Enter the factors for the number 16(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 16
+ U CAN DO IT!!!!
+Enter the factors for the number 16(only 1 are left):   
+Enter the factors for the number 16(only 1 are left):   
+YAYY ALL FACTORS FOR 16 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 17(only 2 are left):   
+YAYY ALL FACTORS FOR 17 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 18(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 18
+ U CAN DO IT!!!!
+Enter the factors for the number 18(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 18
+ U CAN DO IT!!!!
+Enter the factors for the number 18(only 2 are left):   
+YAYY ALL FACTORS FOR 18 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 19(only 2 are left):   
+YAYY ALL FACTORS FOR 19 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 20(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 20
+ U CAN DO IT!!!!
+Enter the factors for the number 20(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 20
+ U CAN DO IT!!!!
+Enter the factors for the number 20(only 2 are left):   
+YAYY ALL FACTORS FOR 20 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 21(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 21
+ U CAN DO IT!!!!
+Enter the factors for the number 21(only 2 are left):   
+YAYY ALL FACTORS FOR 21 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 22(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 22
+ U CAN DO IT!!!!
+Enter the factors for the number 22(only 2 are left):   
+YAYY ALL FACTORS FOR 22 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 23(only 2 are left):   
+YAYY ALL FACTORS FOR 23 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 24(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 24
+ U CAN DO IT!!!!
+Enter the factors for the number 24(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 24
+ U CAN DO IT!!!!
+Enter the factors for the number 24(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 24
+ U CAN DO IT!!!!
+Enter the factors for the number 24(only 2 are left):   
+YAYY ALL FACTORS FOR 24 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 25(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 25
+ U CAN DO IT!!!!
+Enter the factors for the number 25(only 1 are left):   
+YAYY ALL FACTORS FOR 25 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 26(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 26
+ U CAN DO IT!!!!
+Enter the factors for the number 26(only 2 are left):   
+YAYY ALL FACTORS FOR 26 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 27(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 27
+ U CAN DO IT!!!!
+Enter the factors for the number 27(only 2 are left):   
+YAYY ALL FACTORS FOR 27 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 28(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 28
+ U CAN DO IT!!!!
+Enter the factors for the number 28(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 28
+ U CAN DO IT!!!!
+Enter the factors for the number 28(only 2 are left):   
+YAYY ALL FACTORS FOR 28 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 29(only 2 are left):   
+YAYY ALL FACTORS FOR 29 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 30(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 30
+ U CAN DO IT!!!!
+Enter the factors for the number 30(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 30
+ U CAN DO IT!!!!
+Enter the factors for the number 30(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 30
+ U CAN DO IT!!!!
+Enter the factors for the number 30(only 2 are left):   
+YAYY ALL FACTORS FOR 30 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 31(only 2 are left):   
+YAYY ALL FACTORS FOR 31 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 32(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 32
+ U CAN DO IT!!!!
+Enter the factors for the number 32(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 32
+ U CAN DO IT!!!!
+Enter the factors for the number 32(only 2 are left):   
+YAYY ALL FACTORS FOR 32 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 33(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 33
+ U CAN DO IT!!!!
+Enter the factors for the number 33(only 2 are left):   
+WASTE GA U ALREADY USED 1 and 33 RA MENTAL STUPID RASCAL IDIOT TRY AGAIN
+Enter the factors for the number 33(only 2 are left):   
+YAYY ALL FACTORS FOR 33 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 34(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 34
+ U CAN DO IT!!!!
+Enter the factors for the number 34(only 2 are left):   
+YAYY ALL FACTORS FOR 34 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 35(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 35
+ U CAN DO IT!!!!
+Enter the factors for the number 35(only 2 are left):   
+YAYY ALL FACTORS FOR 35 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 36(only 9 are left):   
+YAY !! Good Super Only 7 number of factors are remaining for the number 36
+ U CAN DO IT!!!!
+Enter the factors for the number 36(only 7 are left):   
+YAY !! Good Super Only 5 number of factors are remaining for the number 36
+ U CAN DO IT!!!!
+Enter the factors for the number 36(only 5 are left):   
+YAY !! Good Super Only 3 number of factors are remaining for the number 36
+ U CAN DO IT!!!!
+Enter the factors for the number 36(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 36
+ U CAN DO IT!!!!
+Enter the factors for the number 36(only 1 are left):   
+YAYY ALL FACTORS FOR 36 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 37(only 2 are left):   
+YAYY ALL FACTORS FOR 37 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 38(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 38
+ U CAN DO IT!!!!
+Enter the factors for the number 38(only 2 are left):   
+YAYY ALL FACTORS FOR 38 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 39(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 39
+ U CAN DO IT!!!!
+Enter the factors for the number 39(only 2 are left):   
+YAYY ALL FACTORS FOR 39 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 40(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 40
+ U CAN DO IT!!!!
+Enter the factors for the number 40(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 40
+ U CAN DO IT!!!!
+Enter the factors for the number 40(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 40
+ U CAN DO IT!!!!
+Enter the factors for the number 40(only 2 are left):   
+YAYY ALL FACTORS FOR 40 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 41(only 2 are left):   
+YAYY ALL FACTORS FOR 41 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 42(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 42
+ U CAN DO IT!!!!
+Enter the factors for the number 42(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 42
+ U CAN DO IT!!!!
+Enter the factors for the number 42(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 42
+ U CAN DO IT!!!!
+Enter the factors for the number 42(only 2 are left):   
+YAYY ALL FACTORS FOR 42 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 43(only 2 are left):   
+YAYY ALL FACTORS FOR 43 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 44(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 44
+ U CAN DO IT!!!!
+Enter the factors for the number 44(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 44
+ U CAN DO IT!!!!
+Enter the factors for the number 44(only 2 are left):   
+YAYY ALL FACTORS FOR 44 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 45(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 45
+ U CAN DO IT!!!!
+Enter the factors for the number 45(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 45
+ U CAN DO IT!!!!
+Enter the factors for the number 45(only 2 are left):   
+YAYY ALL FACTORS FOR 45 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 46(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 46
+ U CAN DO IT!!!!
+Enter the factors for the number 46(only 2 are left):   
+YAYY ALL FACTORS FOR 46 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 47(only 2 are left):   
+YAYY ALL FACTORS FOR 47 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 48(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 48
+ U CAN DO IT!!!!
+Enter the factors for the number 48(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 48
+ U CAN DO IT!!!!
+Enter the factors for the number 48(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 48
+ U CAN DO IT!!!!
+Enter the factors for the number 48(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 48
+ U CAN DO IT!!!!
+Enter the factors for the number 48(only 2 are left):   
+YAYY ALL FACTORS FOR 48 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 49(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 49
+ U CAN DO IT!!!!
+Enter the factors for the number 49(only 1 are left):   
+YAYY ALL FACTORS FOR 49 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 50(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 50
+ U CAN DO IT!!!!
+Enter the factors for the number 50(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 50
+ U CAN DO IT!!!!
+Enter the factors for the number 50(only 2 are left):   
+YAYY ALL FACTORS FOR 50 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 51(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 51
+ U CAN DO IT!!!!
+Enter the factors for the number 51(only 2 are left):   
+YAYY ALL FACTORS FOR 51 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 52(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 52
+ U CAN DO IT!!!!
+Enter the factors for the number 52(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 52
+ U CAN DO IT!!!!
+Enter the factors for the number 52(only 2 are left):   
+YAYY ALL FACTORS FOR 52 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 53(only 2 are left):   
+YAYY ALL FACTORS FOR 53 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 54(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 54
+ U CAN DO IT!!!!
+Enter the factors for the number 54(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 54
+ U CAN DO IT!!!!
+Enter the factors for the number 54(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 54
+ U CAN DO IT!!!!
+Enter the factors for the number 54(only 2 are left):   
+YAYY ALL FACTORS FOR 54 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 55(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 55
+ U CAN DO IT!!!!
+Enter the factors for the number 55(only 2 are left):   
+YAYY ALL FACTORS FOR 55 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 56(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 56
+ U CAN DO IT!!!!
+Enter the factors for the number 56(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 56
+ U CAN DO IT!!!!
+Enter the factors for the number 56(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 56
+ U CAN DO IT!!!!
+Enter the factors for the number 56(only 2 are left):   
+YAYY ALL FACTORS FOR 56 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 57(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 57
+ U CAN DO IT!!!!
+Enter the factors for the number 57(only 2 are left):   
+YAYY ALL FACTORS FOR 57 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 58(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 58
+ U CAN DO IT!!!!
+Enter the factors for the number 58(only 2 are left):   
+YAYY ALL FACTORS FOR 58 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 59(only 2 are left):   
+YAYY ALL FACTORS FOR 59 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 60(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 60
+ U CAN DO IT!!!!
+Enter the factors for the number 60(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 60
+ U CAN DO IT!!!!
+Enter the factors for the number 60(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 60
+ U CAN DO IT!!!!
+Enter the factors for the number 60(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 60
+ U CAN DO IT!!!!
+Enter the factors for the number 60(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 60
+ U CAN DO IT!!!!
+Enter the factors for the number 60(only 2 are left):   
+YAYY ALL FACTORS FOR 60 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 61(only 2 are left):   
+YAYY ALL FACTORS FOR 61 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 62(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 62
+ U CAN DO IT!!!!
+Enter the factors for the number 62(only 2 are left):   
+YAYY ALL FACTORS FOR 62 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 63(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 63
+ U CAN DO IT!!!!
+Enter the factors for the number 63(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 63
+ U CAN DO IT!!!!
+Enter the factors for the number 63(only 2 are left):   
+YAYY ALL FACTORS FOR 63 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 64(only 7 are left):   
+YAY !! Good Super Only 5 number of factors are remaining for the number 64
+ U CAN DO IT!!!!
+Enter the factors for the number 64(only 5 are left):   
+YAY !! Good Super Only 3 number of factors are remaining for the number 64
+ U CAN DO IT!!!!
+Enter the factors for the number 64(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 64
+ U CAN DO IT!!!!
+Enter the factors for the number 64(only 1 are left):   
+YAYY ALL FACTORS FOR 64 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 65(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 65
+ U CAN DO IT!!!!
+Enter the factors for the number 65(only 2 are left):   
+YAYY ALL FACTORS FOR 65 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 66(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 66
+ U CAN DO IT!!!!
+Enter the factors for the number 66(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 66
+ U CAN DO IT!!!!
+Enter the factors for the number 66(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 66
+ U CAN DO IT!!!!
+Enter the factors for the number 66(only 2 are left):   
+YAYY ALL FACTORS FOR 66 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 67(only 2 are left):   
+YAYY ALL FACTORS FOR 67 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 68(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 68
+ U CAN DO IT!!!!
+Enter the factors for the number 68(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 68
+ U CAN DO IT!!!!
+Enter the factors for the number 68(only 2 are left):   
+YAYY ALL FACTORS FOR 68 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 69(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 69
+ U CAN DO IT!!!!
+Enter the factors for the number 69(only 2 are left):   
+YAYY ALL FACTORS FOR 69 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 70(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 70
+ U CAN DO IT!!!!
+Enter the factors for the number 70(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 70
+ U CAN DO IT!!!!
+Enter the factors for the number 70(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 70
+ U CAN DO IT!!!!
+Enter the factors for the number 70(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 1x7 is equal to 7 RA MENTAL NOT 70
+
+Enter the factors for the number 70(only 2 are left):   
+YAYY ALL FACTORS FOR 70 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 71(only 2 are left):   
+YAYY ALL FACTORS FOR 71 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 72(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 72
+ U CAN DO IT!!!!
+Enter the factors for the number 72(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 72
+ U CAN DO IT!!!!
+Enter the factors for the number 72(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 72
+ U CAN DO IT!!!!
+Enter the factors for the number 72(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 72
+ U CAN DO IT!!!!
+Enter the factors for the number 72(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 72
+ U CAN DO IT!!!!
+Enter the factors for the number 72(only 2 are left):   
+WASTE GA U ALREADY USED 9 and 8 RA MENTAL STUPID RASCAL IDIOT TRY AGAIN
+Enter the factors for the number 72(only 2 are left):   
+YAYY ALL FACTORS FOR 72 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 73(only 2 are left):   
+YAYY ALL FACTORS FOR 73 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 74(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 74
+ U CAN DO IT!!!!
+Enter the factors for the number 74(only 2 are left):   
+YAYY ALL FACTORS FOR 74 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 75(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 75
+ U CAN DO IT!!!!
+Enter the factors for the number 75(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 75
+ U CAN DO IT!!!!
+Enter the factors for the number 75(only 2 are left):   
+YAYY ALL FACTORS FOR 75 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 76(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 76
+ U CAN DO IT!!!!
+Enter the factors for the number 76(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 76
+ U CAN DO IT!!!!
+Enter the factors for the number 76(only 2 are left):   
+YAYY ALL FACTORS FOR 76 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 77(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 77
+ U CAN DO IT!!!!
+Enter the factors for the number 77(only 2 are left):   
+YAYY ALL FACTORS FOR 77 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 78(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 78
+ U CAN DO IT!!!!
+Enter the factors for the number 78(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 78
+ U CAN DO IT!!!!
+Enter the factors for the number 78(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 78
+ U CAN DO IT!!!!
+Enter the factors for the number 78(only 2 are left):   
+YAYY ALL FACTORS FOR 78 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 79(only 2 are left):   
+YAYY ALL FACTORS FOR 79 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 80(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 80
+ U CAN DO IT!!!!
+Enter the factors for the number 80(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 80
+ U CAN DO IT!!!!
+Enter the factors for the number 80(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 80
+ U CAN DO IT!!!!
+Enter the factors for the number 80(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 80
+ U CAN DO IT!!!!
+Enter the factors for the number 80(only 2 are left):   
+YAYY ALL FACTORS FOR 80 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 81(only 5 are left):   
+YAY !! Good Super Only 3 number of factors are remaining for the number 81
+ U CAN DO IT!!!!
+Enter the factors for the number 81(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 81
+ U CAN DO IT!!!!
+Enter the factors for the number 81(only 1 are left):   
+YAYY ALL FACTORS FOR 81 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 82(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 82
+ U CAN DO IT!!!!
+Enter the factors for the number 82(only 2 are left):   
+YAYY ALL FACTORS FOR 82 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 83(only 2 are left):   
+YAYY ALL FACTORS FOR 83 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 84(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 84
+ U CAN DO IT!!!!
+Enter the factors for the number 84(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 84
+ U CAN DO IT!!!!
+Enter the factors for the number 84(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 84
+ U CAN DO IT!!!!
+Enter the factors for the number 84(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 84
+ U CAN DO IT!!!!
+Enter the factors for the number 84(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 84
+ U CAN DO IT!!!!
+Enter the factors for the number 84(only 2 are left):   
+YAYY ALL FACTORS FOR 84 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 85(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 85
+ U CAN DO IT!!!!
+Enter the factors for the number 85(only 2 are left):   
+YAYY ALL FACTORS FOR 85 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 86(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 86
+ U CAN DO IT!!!!
+Enter the factors for the number 86(only 2 are left):   
+YAYY ALL FACTORS FOR 86 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 87(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 87
+ U CAN DO IT!!!!
+Enter the factors for the number 87(only 2 are left):   
+YAYY ALL FACTORS FOR 87 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 88(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 88
+ U CAN DO IT!!!!
+Enter the factors for the number 88(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 88
+ U CAN DO IT!!!!
+Enter the factors for the number 88(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 88
+ U CAN DO IT!!!!
+Enter the factors for the number 88(only 2 are left):   
+YAYY ALL FACTORS FOR 88 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 89(only 2 are left):   
+YAYY ALL FACTORS FOR 89 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 90(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 90
+ U CAN DO IT!!!!
+Enter the factors for the number 90(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 90
+ U CAN DO IT!!!!
+Enter the factors for the number 90(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 90
+ U CAN DO IT!!!!
+Enter the factors for the number 90(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 90
+ U CAN DO IT!!!!
+Enter the factors for the number 90(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 90
+ U CAN DO IT!!!!
+Enter the factors for the number 90(only 2 are left):   
+YAYY ALL FACTORS FOR 90 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 91(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 91
+ U CAN DO IT!!!!
+Enter the factors for the number 91(only 2 are left):   
+YAYY ALL FACTORS FOR 91 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 92(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 92
+ U CAN DO IT!!!!
+Enter the factors for the number 92(only 4 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 2x44 is equal to 88 RA MENTAL NOT 92
+
+Enter the factors for the number 92(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 92
+ U CAN DO IT!!!!
+Enter the factors for the number 92(only 2 are left):   
+YAYY ALL FACTORS FOR 92 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 93(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 93
+ U CAN DO IT!!!!
+Enter the factors for the number 93(only 2 are left):   
+YAYY ALL FACTORS FOR 93 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 94(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 94
+ U CAN DO IT!!!!
+Enter the factors for the number 94(only 2 are left):   
+YAYY ALL FACTORS FOR 94 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 95(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 95
+ U CAN DO IT!!!!
+Enter the factors for the number 95(only 2 are left):   
+YAYY ALL FACTORS FOR 95 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 96(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 96
+ U CAN DO IT!!!!
+Enter the factors for the number 96(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 96
+ U CAN DO IT!!!!
+Enter the factors for the number 96(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 96
+ U CAN DO IT!!!!
+Enter the factors for the number 96(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 96
+ U CAN DO IT!!!!
+Enter the factors for the number 96(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 96
+ U CAN DO IT!!!!
+Enter the factors for the number 96(only 2 are left):   
+YAYY ALL FACTORS FOR 96 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 97(only 2 are left):   
+YAYY ALL FACTORS FOR 97 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 98(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 98
+ U CAN DO IT!!!!
+Enter the factors for the number 98(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 98
+ U CAN DO IT!!!!
+Enter the factors for the number 98(only 2 are left):   
+YAYY ALL FACTORS FOR 98 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 99(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 99
+ U CAN DO IT!!!!
+Enter the factors for the number 99(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 99
+ U CAN DO IT!!!!
+Enter the factors for the number 99(only 2 are left):   
+YAYY ALL FACTORS FOR 99 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 100(only 9 are left):   
+YAY !! Good Super Only 7 number of factors are remaining for the number 100
+ U CAN DO IT!!!!
+Enter the factors for the number 100(only 7 are left):   
+YAY !! Good Super Only 5 number of factors are remaining for the number 100
+ U CAN DO IT!!!!
+Enter the factors for the number 100(only 5 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 4x20 is equal to 80 RA MENTAL NOT 100
+
+Enter the factors for the number 100(only 5 are left):   
+YAY !! Good Super Only 3 number of factors are remaining for the number 100
+ U CAN DO IT!!!!
+Enter the factors for the number 100(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 100
+ U CAN DO IT!!!!
+Enter the factors for the number 100(only 1 are left):   
+YAYY ALL FACTORS FOR 100 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 101(only 2 are left):   
+YAYY ALL FACTORS FOR 101 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 102(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 102
+ U CAN DO IT!!!!
+Enter the factors for the number 102(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 102
+ U CAN DO IT!!!!
+Enter the factors for the number 102(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 102
+ U CAN DO IT!!!!
+Enter the factors for the number 102(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 4x23 is equal to 92 RA MENTAL NOT 102
+
+Enter the factors for the number 102(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 4x24 is equal to 96 RA MENTAL NOT 102
+
+Enter the factors for the number 102(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 5x24 is equal to 120 RA MENTAL NOT 102
+
+Enter the factors for the number 102(only 2 are left):   
+YAYY ALL FACTORS FOR 102 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 103(only 2 are left):   
+YAYY ALL FACTORS FOR 103 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 104(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 104
+ U CAN DO IT!!!!
+Enter the factors for the number 104(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 104
+ U CAN DO IT!!!!
+Enter the factors for the number 104(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 104
+ U CAN DO IT!!!!
+Enter the factors for the number 104(only 2 are left):   
+YAYY ALL FACTORS FOR 104 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 105(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 105
+ U CAN DO IT!!!!
+Enter the factors for the number 105(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 105
+ U CAN DO IT!!!!
+Enter the factors for the number 105(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 105
+ U CAN DO IT!!!!
+Enter the factors for the number 105(only 2 are left):   
+YAYY ALL FACTORS FOR 105 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 106(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 106
+ U CAN DO IT!!!!
+Enter the factors for the number 106(only 2 are left):   
+YAYY ALL FACTORS FOR 106 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 107(only 2 are left):   
+YAYY ALL FACTORS FOR 107 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 108(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 108
+ U CAN DO IT!!!!
+Enter the factors for the number 108(only 10 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 2x56 is equal to 112 RA MENTAL NOT 108
+
+Enter the factors for the number 108(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 108
+ U CAN DO IT!!!!
+Enter the factors for the number 108(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 108
+ U CAN DO IT!!!!
+Enter the factors for the number 108(only 6 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 6x13 is equal to 78 RA MENTAL NOT 108
+
+Enter the factors for the number 108(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 108
+ U CAN DO IT!!!!
+Enter the factors for the number 108(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 108
+ U CAN DO IT!!!!
+Enter the factors for the number 108(only 2 are left):   
+YAYY ALL FACTORS FOR 108 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 109(only 2 are left):   
+YAYY ALL FACTORS FOR 109 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 110(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 110
+ U CAN DO IT!!!!
+Enter the factors for the number 110(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 110
+ U CAN DO IT!!!!
+Enter the factors for the number 110(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 110
+ U CAN DO IT!!!!
+Enter the factors for the number 110(only 2 are left):   
+WASTE GA U ALREADY USED 5 and 22 RA MENTAL STUPID RASCAL IDIOT TRY AGAIN
+Enter the factors for the number 110(only 2 are left):   
+YAYY ALL FACTORS FOR 110 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 111(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 111
+ U CAN DO IT!!!!
+Enter the factors for the number 111(only 2 are left):   
+YAYY ALL FACTORS FOR 111 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 112(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 112
+ U CAN DO IT!!!!
+Enter the factors for the number 112(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 112
+ U CAN DO IT!!!!
+Enter the factors for the number 112(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 112
+ U CAN DO IT!!!!
+Enter the factors for the number 112(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 112
+ U CAN DO IT!!!!
+Enter the factors for the number 112(only 2 are left):   
+YAYY ALL FACTORS FOR 112 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 113(only 2 are left):   
+YAYY ALL FACTORS FOR 113 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 114(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 114
+ U CAN DO IT!!!!
+Enter the factors for the number 114(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 114
+ U CAN DO IT!!!!
+Enter the factors for the number 114(only 4 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 3x36 is equal to 108 RA MENTAL NOT 114
+
+Enter the factors for the number 114(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 114
+ U CAN DO IT!!!!
+Enter the factors for the number 114(only 2 are left):   
+YAYY ALL FACTORS FOR 114 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 115(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 115
+ U CAN DO IT!!!!
+Enter the factors for the number 115(only 2 are left):   
+YAYY ALL FACTORS FOR 115 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 116(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 116
+ U CAN DO IT!!!!
+Enter the factors for the number 116(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 116
+ U CAN DO IT!!!!
+Enter the factors for the number 116(only 2 are left):   
+YAYY ALL FACTORS FOR 116 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 117(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 117
+ U CAN DO IT!!!!
+Enter the factors for the number 117(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 117
+ U CAN DO IT!!!!
+Enter the factors for the number 117(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 7x17 is equal to 119 RA MENTAL NOT 117
+
+Enter the factors for the number 117(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 7x16 is equal to 112 RA MENTAL NOT 117
+
+Enter the factors for the number 117(only 2 are left):   
+YAYY ALL FACTORS FOR 117 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 118(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 118
+ U CAN DO IT!!!!
+Enter the factors for the number 118(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 2x19 is equal to 38 RA MENTAL NOT 118
+
+Enter the factors for the number 118(only 2 are left):   
+Enter the factors for the number 118(only 2 are left):   
+YAYY ALL FACTORS FOR 118 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 119(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 119
+ U CAN DO IT!!!!
+Enter the factors for the number 119(only 2 are left):   
+YAYY ALL FACTORS FOR 119 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 120(only 16 are left):   
+YAY !! Good Super Only 14 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 14 are left):   
+YAY !! Good Super Only 12 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 12 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 2x40 is equal to 80 RA MENTAL NOT 120
+
+Enter the factors for the number 120(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 8 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 5x14 is equal to 70 RA MENTAL NOT 120
+
+Enter the factors for the number 120(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 120
+ U CAN DO IT!!!!
+Enter the factors for the number 120(only 2 are left):   
+YAYY ALL FACTORS FOR 120 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 121(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 121
+ U CAN DO IT!!!!
+Enter the factors for the number 121(only 1 are left):   
+YAYY ALL FACTORS FOR 121 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 122(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 122
+ U CAN DO IT!!!!
+Enter the factors for the number 122(only 2 are left):   
+YAYY ALL FACTORS FOR 122 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 123(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 123
+ U CAN DO IT!!!!
+Enter the factors for the number 123(only 2 are left):   
+YAYY ALL FACTORS FOR 123 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 124(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 124
+ U CAN DO IT!!!!
+Enter the factors for the number 124(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 124
+ U CAN DO IT!!!!
+Enter the factors for the number 124(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 4x32 is equal to 128 RA MENTAL NOT 124
+
+Enter the factors for the number 124(only 2 are left):   
+YAYY ALL FACTORS FOR 124 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 125(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 125
+ U CAN DO IT!!!!
+Enter the factors for the number 125(only 2 are left):   
+YAYY ALL FACTORS FOR 125 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 126(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 126
+ U CAN DO IT!!!!
+Enter the factors for the number 126(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 126
+ U CAN DO IT!!!!
+Enter the factors for the number 126(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 126
+ U CAN DO IT!!!!
+Enter the factors for the number 126(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 126
+ U CAN DO IT!!!!
+Enter the factors for the number 126(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 126
+ U CAN DO IT!!!!
+Enter the factors for the number 126(only 2 are left):   
+YAYY ALL FACTORS FOR 126 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 127(only 2 are left):   
+YAYY ALL FACTORS FOR 127 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 128(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 128
+ U CAN DO IT!!!!
+Enter the factors for the number 128(only 6 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 2x54 is equal to 108 RA MENTAL NOT 128
+
+Enter the factors for the number 128(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 128
+ U CAN DO IT!!!!
+Enter the factors for the number 128(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 128
+ U CAN DO IT!!!!
+Enter the factors for the number 128(only 2 are left):   
+YAYY ALL FACTORS FOR 128 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 129(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 129
+ U CAN DO IT!!!!
+Enter the factors for the number 129(only 2 are left):   
+YAYY ALL FACTORS FOR 129 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 130(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 130
+ U CAN DO IT!!!!
+Enter the factors for the number 130(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 130
+ U CAN DO IT!!!!
+Enter the factors for the number 130(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 130
+ U CAN DO IT!!!!
+Enter the factors for the number 130(only 2 are left):   
+YAYY ALL FACTORS FOR 130 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 131(only 2 are left):   
+YAYY ALL FACTORS FOR 131 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 132(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 132
+ U CAN DO IT!!!!
+Enter the factors for the number 132(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 132
+ U CAN DO IT!!!!
+Enter the factors for the number 132(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 132
+ U CAN DO IT!!!!
+Enter the factors for the number 132(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 132
+ U CAN DO IT!!!!
+Enter the factors for the number 132(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 132
+ U CAN DO IT!!!!
+Enter the factors for the number 132(only 2 are left):   
+YAYY ALL FACTORS FOR 132 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 133(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 133
+ U CAN DO IT!!!!
+Enter the factors for the number 133(only 2 are left):   
+YAYY ALL FACTORS FOR 133 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 134(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 134
+ U CAN DO IT!!!!
+Enter the factors for the number 134(only 2 are left):   
+YAYY ALL FACTORS FOR 134 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 135(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 135
+ U CAN DO IT!!!!
+Enter the factors for the number 135(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 135
+ U CAN DO IT!!!!
+Enter the factors for the number 135(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 135
+ U CAN DO IT!!!!
+Enter the factors for the number 135(only 2 are left):   
+YAYY ALL FACTORS FOR 135 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 136(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 136
+ U CAN DO IT!!!!
+Enter the factors for the number 136(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 136
+ U CAN DO IT!!!!
+Enter the factors for the number 136(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 136
+ U CAN DO IT!!!!
+Enter the factors for the number 136(only 2 are left):   
+YAYY ALL FACTORS FOR 136 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 137(only 2 are left):   
+YAYY ALL FACTORS FOR 137 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 138(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 138
+ U CAN DO IT!!!!
+Enter the factors for the number 138(only 6 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 2x19 is equal to 38 RA MENTAL NOT 138
+
+Enter the factors for the number 138(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 138
+ U CAN DO IT!!!!
+Enter the factors for the number 138(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 138
+ U CAN DO IT!!!!
+Enter the factors for the number 138(only 2 are left):   
+YAYY ALL FACTORS FOR 138 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 139(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 1x1139 is equal to 1139 RA MENTAL NOT 139
+
+Enter the factors for the number 139(only 2 are left):   
+YAYY ALL FACTORS FOR 139 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 140(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 140
+ U CAN DO IT!!!!
+Enter the factors for the number 140(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 140
+ U CAN DO IT!!!!
+Enter the factors for the number 140(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 140
+ U CAN DO IT!!!!
+Enter the factors for the number 140(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 140
+ U CAN DO IT!!!!
+Enter the factors for the number 140(only 4 are left):   
+Enter the factors for the number 140(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 140
+ U CAN DO IT!!!!
+Enter the factors for the number 140(only 2 are left):   
+YAYY ALL FACTORS FOR 140 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 141(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 141
+ U CAN DO IT!!!!
+Enter the factors for the number 141(only 2 are left):   
+YAYY ALL FACTORS FOR 141 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 142(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 142
+ U CAN DO IT!!!!
+Enter the factors for the number 142(only 2 are left):   
+YAYY ALL FACTORS FOR 142 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 143(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 143
+ U CAN DO IT!!!!
+Enter the factors for the number 143(only 2 are left):   
+WASTE GA U ALREADY USED 1 and 143 RA MENTAL STUPID RASCAL IDIOT TRY AGAIN
+Enter the factors for the number 143(only 2 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 11x14 is equal to 154 RA MENTAL NOT 143
+
+Enter the factors for the number 143(only 2 are left):   
+YAYY ALL FACTORS FOR 143 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 144(only 15 are left):   
+YAY !! Good Super Only 13 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 13 are left):   
+YAY !! Good Super Only 11 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 11 are left):   
+YAY !! Good Super Only 9 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 9 are left):   
+MENTAL STUPID RASCAL IDIOT BRAINLESS FOOL 4x38 is equal to 152 RA MENTAL NOT 144
+
+Enter the factors for the number 144(only 9 are left):   
+YAY !! Good Super Only 7 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 7 are left):   
+YAY !! Good Super Only 5 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 5 are left):   
+YAY !! Good Super Only 3 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 3 are left):   
+YAY !! Good Super Only 1 number of factors are remaining for the number 144
+ U CAN DO IT!!!!
+Enter the factors for the number 144(only 1 are left):   
+YAYY ALL FACTORS FOR 144 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 145(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 145
+ U CAN DO IT!!!!
+Enter the factors for the number 145(only 2 are left):   
+YAYY ALL FACTORS FOR 145 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 146(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 146
+ U CAN DO IT!!!!
+Enter the factors for the number 146(only 2 are left):   
+YAYY ALL FACTORS FOR 146 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 147(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 147
+ U CAN DO IT!!!!
+Enter the factors for the number 147(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 147
+ U CAN DO IT!!!!
+Enter the factors for the number 147(only 2 are left):   
+YAYY ALL FACTORS FOR 147 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 148(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 148
+ U CAN DO IT!!!!
+Enter the factors for the number 148(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 148
+ U CAN DO IT!!!!
+Enter the factors for the number 148(only 2 are left):   
+YAYY ALL FACTORS FOR 148 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 149(only 2 are left):   
+YAYY ALL FACTORS FOR 149 ARE DONE 
+Proceed to the next number
+Enter the factors for the number 150(only 12 are left):   
+YAY !! Good Super Only 10 number of factors are remaining for the number 150
+ U CAN DO IT!!!!
+Enter the factors for the number 150(only 10 are left):   
+YAY !! Good Super Only 8 number of factors are remaining for the number 150
+ U CAN DO IT!!!!
+Enter the factors for the number 150(only 8 are left):   
+YAY !! Good Super Only 6 number of factors are remaining for the number 150
+ U CAN DO IT!!!!
+Enter the factors for the number 150(only 6 are left):   
+YAY !! Good Super Only 4 number of factors are remaining for the number 150
+ U CAN DO IT!!!!
+Enter the factors for the number 150(only 4 are left):   
+YAY !! Good Super Only 2 number of factors are remaining for the number 150
+ U CAN DO IT!!!!
+Enter the factors for the number 150(only 2 are left):   
+YAYY ALL FACTORS FOR 150 ARE DONE 
+Proceed to the next number
